@@ -1,0 +1,6 @@
+telethon
+asyncio
+sqlite3
+python-dotenv
+requests
+re
